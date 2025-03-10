@@ -1,0 +1,101 @@
+Product ID,Product Code,Name,Quantity,Price,Category
+1,P1001,Desk,20,441.45,Furniture
+2,P1002,Stapler,129,371.42,Stationery
+3,P1003,Webcam,192,112.05,Electronics
+4,P1004,Blender,437,58.14,Appliances
+5,P1005,USB Hub,199,36.38,Electronics
+6,P1006,Socks,305,417.47,Clothing
+7,P1007,USB Hub,357,381.09,Electronics
+8,P1008,USB Hub,432,214.7,Electronics
+9,P1009,Sofa,446,270.45,Furniture
+10,P1010,USB Hub,443,461.06,Electronics
+11,P1011,Sweater,136,176.03,Clothing
+12,P1012,Notebook,300,160.66,Stationery
+13,P1013,Eraser,72,99.9,Stationery
+14,P1014,Blender,414,435.34,Appliances
+15,P1015,Coffee Maker,411,463.37,Appliances
+16,P1016,Webcam,440,357.52,Electronics
+17,P1017,Jeans,290,132.94,Clothing
+18,P1018,Notebook,253,174.36,Stationery
+19,P1019,Tablet,71,215.4,Electronics
+20,P1020,Cap,394,301.16,Clothing
+21,P1021,Belt,428,363.65,Accessories
+22,P1022,Cap,110,44.35,Clothing
+23,P1023,Desk,477,415.5,Furniture
+24,P1024,Jeans,108,370.24,Clothing
+25,P1025,Desk,449,16.38,Furniture
+26,P1026,Eraser,404,52.78,Stationery
+27,P1027,Toaster,170,465.2,Appliances
+28,P1028,USB Hub,349,388.85,Electronics
+29,P1029,Air Fryer,305,241.72,Appliances
+30,P1030,Jeans,207,129.42,Clothing
+31,P1031,Sofa,344,92.47,Furniture
+32,P1032,Air Fryer,219,472.97,Appliances
+33,P1033,Bookshelf,118,49.76,Furniture
+34,P1034,Belt,290,419.89,Accessories
+35,P1035,Eraser,99,233.91,Stationery
+36,P1036,Water Bottle,263,264.02,Accessories
+37,P1037,Stool,480,407.23,Furniture
+38,P1038,Microwave,48,102.68,Appliances
+39,P1039,Filing Cabinet,170,428.02,Furniture
+40,P1040,Desk,168,465.34,Furniture
+41,P1041,Bookshelf,323,414.47,Furniture
+42,P1042,Stapler,94,121.96,Stationery
+43,P1043,Socks,135,152.94,Clothing
+44,P1044,Toaster,165,432.22,Appliances
+45,P1045,Microwave,237,399.64,Appliances
+46,P1046,Jeans,371,472.38,Clothing
+47,P1047,Bluetooth Speaker,18,319.95,Electronics
+48,P1048,Bookshelf,298,17.83,Furniture
+49,P1049,Pen,302,80.63,Stationery
+50,P1050,Socks,117,328.8,Clothing
+51,P1051,Pencil,326,307.55,Stationery
+52,P1052,T-Shirt,261,89.6,Clothing
+53,P1053,Blender,267,250.22,Appliances
+54,P1054,Socks,195,155.22,Clothing
+55,P1055,Microwave,486,182.69,Appliances
+56,P1056,Blender,47,114.39,Appliances
+57,P1057,Tablet,393,163.33,Electronics
+58,P1058,Keyboard,463,443.57,Electronics
+59,P1059,Sunglasses,429,393.62,Accessories
+60,P1060,Office Chair,395,372.8,Furniture
+61,P1061,T-Shirt,134,58.86,Clothing
+62,P1062,Sunglasses,328,14.01,Accessories
+63,P1063,USB Hub,340,273.35,Electronics
+64,P1064,Pencil,158,5.95,Stationery
+65,P1065,Toaster,86,238.62,Appliances
+66,P1066,Toaster,476,456.58,Appliances
+67,P1067,Blender,433,433.25,Appliances
+68,P1068,Belt,266,105.15,Accessories
+69,P1069,Webcam,248,85.27,Electronics
+70,P1070,Air Fryer,219,357.85,Appliances
+71,P1071,Cap,31,117.07,Clothing
+72,P1072,Keyboard,188,491.36,Electronics
+73,P1073,Tablet,156,342.94,Electronics
+74,P1074,Vacuum Cleaner,118,369.12,Appliances
+75,P1075,Bluetooth Speaker,198,170.95,Electronics
+76,P1076,Wallet,465,152.75,Accessories
+77,P1077,Webcam,386,308.82,Electronics
+78,P1078,Tablet,288,51.89,Electronics
+79,P1079,Jacket,329,432.65,Clothing
+80,P1080,T-Shirt,478,238.55,Clothing
+81,P1081,Sweater,362,118.91,Clothing
+82,P1082,Socks,229,224.81,Clothing
+83,P1083,Filing Cabinet,28,386.48,Furniture
+84,P1084,Socks,424,395.81,Clothing
+85,P1085,Bluetooth Speaker,321,131.79,Electronics
+86,P1086,Keyboard,110,122.64,Electronics
+87,P1087,Vacuum Cleaner,107,383.69,Appliances
+88,P1088,Bookshelf,358,133.88,Furniture
+89,P1089,Pencil,132,321.78,Stationery
+90,P1090,Wireless Mouse,462,414.76,Electronics
+91,P1091,Sofa,114,473.84,Furniture
+92,P1092,Socks,38,459.28,Clothing
+93,P1093,Bluetooth Speaker,394,346.15,Electronics
+94,P1094,Belt,43,466.21,Accessories
+95,P1095,Tablet,255,451.64,Electronics
+96,P1096,Coffee Maker,335,323.47,Appliances
+97,P1097,Belt,246,186.99,Accessories
+98,P1098,Eraser,349,494.77,Stationery
+99,P1099,Coffee Maker,281,246.46,Appliances
+100,P1100,Jeans,142,442.75,Clothing
